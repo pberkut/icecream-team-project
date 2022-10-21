@@ -1,4 +1,9 @@
-t**Read in other languages: [Русский](README.md), [Polski](README.pl.md).**
+## [Технічне завдання](https://docs.google.com/document/d/19ZftNBbQmTtqXCFPawIryXJ0gmZD_AgoGJGO7Z2u3Zs/edit) - ссылка
+
+
+## Описание
+
+**Read in other languages: [Русский](README.md), [Polski](README.pl.md).**
 
 # Parcel template
 
