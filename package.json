@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://pberkut.github.io/ice-cream",
+  "homepage": "https://pberkut.github.io/ice-cream-team-project.",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream/"
+    "build": "parcel build src/*.html --public-url /ice-cream-team-project./"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pberkut/ice-cream.git"
+    "url": "git+https://github.com/pberkut/ice-cream-team-project..git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pberkut/ice-cream/issues"
+    "url": "https://github.com/pberkut/ice-cream-team-project./issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
